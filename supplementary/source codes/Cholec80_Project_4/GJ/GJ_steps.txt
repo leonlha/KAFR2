@@ -1,0 +1,7 @@
+1.1 Preparation
+1.2 CalotTriangleDissection
+1.3 ClippingCutting
+1.4 GallbladderDissection
+1.5 GallbladderPackaging
+1.6 CleaningCoagulation
+1.7 GallbladderRetraction
